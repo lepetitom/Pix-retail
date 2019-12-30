@@ -28,7 +28,7 @@ h2 {
 h3 {
   font-family: "Playfair Display", serif;
   font-weight: 900;
-  font-size: 40px;
+  font-size: 50px;
   color: Black;
 }
 
@@ -49,6 +49,10 @@ a {
 .button:hover {
   color: #f0f0f0;
   background-color: black;
+}
+
+body {
+  width: 100vw;
 }
 
 /* Home page */
@@ -216,7 +220,7 @@ body .home .post-type-archive-product .site-header {
 .collectionTextFirst, .collectionTextSecond, .collectionTextThird {
   position: absolute;
   height: 90%;
-  width: 33.3%;
+  width: 33.3vw;
   background-color: rgba(0, 0, 0, 0);
   color: rgba(22, 22, 22, 0);
   padding-top: 33%;
@@ -231,21 +235,21 @@ body .home .post-type-archive-product .site-header {
 .collectionTextFirst:hover {
   color: white;
   background-color: rgba(36, 36, 36, 0.6);
-  width: 33.3%;
+  width: 33.3vw;
   z-index: 2;
 }
 
 .collectionTextSecond:hover {
   color: white;
   background-color: rgba(36, 36, 36, 0.6);
-  width: 33.3%;
+  width: 33.3vw;
   z-index: 2;
 }
 
 .collectionTextThird:hover {
   color: white;
   background-color: rgba(36, 36, 36, 0.6);
-  width: 33.3%;
+  width: 33.3vw;
   z-index: 2;
 }
 
@@ -278,7 +282,7 @@ img {
 }
 
 .dernieres_collections_image_1, .dernieres_collections_image_2, .dernieres_collections_image_3 {
-  width: 33.3%;
+  width: 33.3vw;
 }
 
 .dernieresCollectionBouton {
@@ -299,6 +303,112 @@ img {
   color: #f0f0f0;
   z-index: 100;
   width: 100vw;
+}
+
+.carousel-inner {
+  display: none;
+}
+
+.carousel-indicators {
+  display: none;
+}
+
+/* Old collection mobile version */
+@media (max-width: 1024px) {
+  .carousel-inner {
+    width: 100vw;
+    display: flex;
+  }
+
+  .oldCollections {
+    display: none !important;
+  }
+
+  .collectionTextFirst h3, .collectionTextSecond h3, .collectionTextThird h3 {
+    color: #f0f0f0;
+    width: 100%;
+    bottom: 10%;
+  }
+
+  .collectionTextFirst, .collectionTextSecond, .collectionTextThird {
+    color: #f0f0f0;
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    bottom: 10%;
+    height: auto;
+  }
+
+  .dernieresCollectionTitle {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+  }
+
+  .collectionTextFirst:hover, .collectionTextSecond:hover, .collectionTextThird:hover {
+    color: #f0f0f0;
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    bottom: 10%;
+    padding-top: 90%;
+    z-index: 1;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0);
+  }
+
+  .carousel-control-prev, .carousel-control-next {
+    z-index: 100;
+  }
+
+  .dernieresCollectionBouton {
+    display: flex;
+  }
+}
+.wp-block-group.has-background {
+  padding-top: 100px !important;
+  padding-right: 100px !important;
+  padding-left: 100px !important;
+  padding-bottom: 50px !important;
+}
+
+.wp-block-group.has-background h3 {
+  padding-bottom: 100px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.add_to_cart_button {
+  background-color: black !important;
+  color: #f0f0f0 !important;
+}
+
+@media (max-width: 768px) {
+  .wp-block-group.has-background h3 {
+    padding-bottom: 50px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 1.8em;
+  }
+
+  .wp-block-group.has-background {
+    padding-top: 50px !important;
+    padding-right: 20px !important;
+    padding-left: 50px !important;
+    padding-bottom: 5px !important;
+  }
+}
+@media (max-width: 600px) {
+  .add_to_cart_button {
+    font-size: 0.6em;
+  }
+
+  .wp-block-group.has-background {
+    padding-top: 50px !important;
+    padding-right: 15px !important;
+    padding-left: 30px !important;
+    padding-bottom: 30px !important;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
