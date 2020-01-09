@@ -1,7 +1,7 @@
 <?php
 /*
 *
-* Template Name: Home
+* Template Name: Cart
 *
 *
 */
@@ -16,12 +16,12 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:100,100i,300,300i,400&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i&display=swap" rel="stylesheet">
-    <title>panier</title>
+    <title>Panier</title>
     <?php wp_head(); ?>
 </head>
 <body>
     <?php get_header(); ?>
-    
+    [woocommerce_cart]
     <?php get_footer(); ?>
 </body>
 </html>

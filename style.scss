@@ -7,38 +7,61 @@ Template: storefront
 Version: 1.0.0
 */
 
+@font-face {
+    font-family: "Alegreya";
+    src: url("font/AlegreyaSans-Light.ttf");
+    font-style: normal;
+    font-weight: 300;
+    }
+@font-face {
+    font-family: "Alegreya link";
+    src: url("font/AlegreyaSans-Regular.ttf");
+    font-style: normal;
+    font-weight: 400;
+    }
+@font-face {
+    font-family: "Playfair";
+    src: url("font/PlayfairDisplay-Black.ttf");
+    font-style: normal;
+    font-weight: 900;
+    }
 
 .col-full{
     max-width: 100% !important;
     padding: 0px !important;
 }
 p{
-    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Alegreya', sans-serif;
     font-weight: 300;
     font-size: 20px;
     margin-bottom: 10px;
 
 }
+h1{
+    font-family: 'Playfair', serif;
+    font-weight: 900;
+    font-size: 4.5em;
+}
 h2{
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair', serif;
     font-weight: 900;
     font-size: 4em;
 }
 h3{
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair', serif;
     font-weight: 900;
     font-size: 50px;
     color: Black;
 }
 a{
-    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Alegreya link', sans-serif;
     font-weight: 400;
     font-size: 18px;
     text-transform: uppercase;
 
 }
 .button{
-    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Alegreya', sans-serif;
     font-weight: 400;
     font-size: 20px;
     text-transform: uppercase;
@@ -50,6 +73,9 @@ a{
 }
 body{
     width: 100vw;
+}
+th{
+    font-family: 'Alegreya link';
 }
 /* Home page */
 
@@ -380,5 +406,84 @@ img{
         padding-right: 15px !important;
         padding-left:30px !important;
         padding-bottom: 30px !important;
+    }
+}
+
+//==================================================================================================================================
+//==================================================================================================================================
+
+//Cart page 
+
+//==================================================================================================================================
+//==================================================================================================================================
+
+
+.site-main{
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+@media (max-width: 768px){
+    .site-main{
+        margin-right: 20px !important;
+        margin-left: 20px !important;
+        h1, h2{
+            font-size: 2em;
+        }
+    }
+    
+}
+//checkout
+.entry-content{
+    h3{
+        font-size: 2em;
+    }
+}
+@media (max-width: 1024px){
+    .entry-content{
+        h3{
+            font-size: 2em;
+        }
+    }
+
+}
+@media (max-width: 768px){
+    .entry-content{
+        h3{
+            font-size: 1.5em;
+        }
+    }
+
+}
+
+
+//==================================================================================================================================
+//==================================================================================================================================
+
+//widget area
+
+//==================================================================================================================================
+//==================================================================================================================================
+
+.widget-area{
+    padding-left: 100px;
+    padding-right: 20px;
+    margin: 0px !important;
+    width: 25% !important;
+    height: 100vh;
+    position: fixed;
+}
+@media (max-width: 1024px){
+    
+    .widget-area{
+        padding-left: 50px;
+        padding-right: 20px;
+    }
+}
+@media (max-width: 768px){
+    
+    .widget-area{
+        padding-left: 20px;
+        padding-right: 20px;
     }
 }
