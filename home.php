@@ -49,69 +49,64 @@
 			
 <div class="wp-block-group alignfull has-background" style="background-color:#f0f0f0">
     <h3>Nos meilleures ventes</h3>
-    <div class="wp-block-group__inner-container">
-        <div class="wc-block-grid wp-block-product-category wc-block-product-category has-3-columns">
-            <ul class="wc-block-grid__products">
-                <li class="wc-block-grid__product">
-				<a href="http://localhost/PixRetail/product/elle-le-bois-6/" class="wc-block-grid__product-link">
-					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" srcset="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 324px) 100vw, 324px"></div>
-					<div class="wc-block-grid__product-title">Elle &amp; le bois 6</div>
+    <div class="wp-block-group alignfull has-background" style="background-color:#f0f0f0"><div class="wp-block-group__inner-container"><div class="wc-block-grid wp-block-product-category wc-block-product-category has-3-columns has-multiple-rows"><ul class="wc-block-grid__products"><li class="wc-block-grid__product">
+				<a href="http://localhost/PixRetail/product/casper/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/2020/01/Casper-324x324.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://localhost/PixRetail/wp-content/uploads/2020/01/Casper-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/2020/01/Casper-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/2020/01/Casper-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/2020/01/Casper-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/2020/01/Casper-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/2020/01/Casper-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/2020/01/Casper-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/2020/01/Casper.png 1280w" sizes="(max-width: 324px) 100vw, 324px"></div>
+					<div class="wc-block-grid__product-title">Casper</div>
 				</a>
-				<div class="wc-block-grid__product-price price">
-                    <span class="woocommerce-Price-amount amount">15,00
-                    <span class="woocommerce-Price-currencySymbol">€</span>
-                    </span>
-                </div>
 				
-				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=208" aria-label="Ajouter “Elle &amp; le bois 6” à votre panier" data-quantity="1" data-product_id="208" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Ajouter au panier</a></div>
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">10,00<span class="woocommerce-Price-currencySymbol">€</span></span> – <span class="woocommerce-Price-amount amount">15,00<span class="woocommerce-Price-currencySymbol">€</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="http://localhost/PixRetail/product/casper/" aria-label="Sélectionner les options pour “Casper”" data-quantity="1" data-product_id="297" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button">Choix des options</a></div>
 			</li><li class="wc-block-grid__product">
-				<a href="http://localhost/PixRetail/product/elle-le-bois-5/" class="wc-block-grid__product-link">
-					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" srcset="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 324px) 100vw, 324px"></div>
-					<div class="wc-block-grid__product-title">Elle &amp; le bois 5</div>
+				<a href="http://localhost/PixRetail/product/alexender-2/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/2020/01/Alexender-324x324.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://localhost/PixRetail/wp-content/uploads/2020/01/Alexender-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/2020/01/Alexender-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/2020/01/Alexender-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/2020/01/Alexender-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/2020/01/Alexender-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/2020/01/Alexender-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/2020/01/Alexender-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/2020/01/Alexender.png 1280w" sizes="(max-width: 324px) 100vw, 324px"></div>
+					<div class="wc-block-grid__product-title">Alexender</div>
 				</a>
 				
-				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">15,00<span class="woocommerce-Price-currencySymbol">€</span></span></div>
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">10,00<span class="woocommerce-Price-currencySymbol">€</span></span> – <span class="woocommerce-Price-amount amount">15,00<span class="woocommerce-Price-currencySymbol">€</span></span></div>
 				
-				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=207" aria-label="Ajouter “Elle &amp; le bois 5” à votre panier" data-quantity="1" data-product_id="207" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Ajouter au panier</a></div>
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="http://localhost/PixRetail/product/alexender-2/" aria-label="Sélectionner les options pour “Alexender”" data-quantity="1" data-product_id="286" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button">Choix des options</a></div>
 			</li><li class="wc-block-grid__product">
-				<a href="http://localhost/PixRetail/product/elle-le-bois-4/" class="wc-block-grid__product-link">
-					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" srcset="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 324px) 100vw, 324px"></div>
-					<div class="wc-block-grid__product-title">Elle &amp; le bois 4</div>
+				<a href="http://localhost/PixRetail/product/olenka/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/2020/01/olenka-324x324.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://localhost/PixRetail/wp-content/uploads/2020/01/olenka-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/2020/01/olenka-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/2020/01/olenka-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/2020/01/olenka-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/2020/01/olenka-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/2020/01/olenka-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/2020/01/olenka-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/2020/01/olenka.png 1280w" sizes="(max-width: 324px) 100vw, 324px"></div>
+					<div class="wc-block-grid__product-title">Olenka</div>
 				</a>
 				
-				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">15,00<span class="woocommerce-Price-currencySymbol">€</span></span></div>
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">10,00<span class="woocommerce-Price-currencySymbol">€</span></span> – <span class="woocommerce-Price-amount amount">15,00<span class="woocommerce-Price-currencySymbol">€</span></span></div>
 				
-				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=206" aria-label="Ajouter “Elle &amp; le bois 4” à votre panier" data-quantity="1" data-product_id="206" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Ajouter au panier</a></div>
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="http://localhost/PixRetail/product/olenka/" aria-label="Sélectionner les options pour “Olenka”" data-quantity="1" data-product_id="274" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button">Choix des options</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/PixRetail/product/katiu/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/2020/01/The_Mouvement.1-324x324.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://localhost/PixRetail/wp-content/uploads/2020/01/The_Mouvement.1-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/2020/01/The_Mouvement.1-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/2020/01/The_Mouvement.1-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/2020/01/The_Mouvement.1-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/2020/01/The_Mouvement.1-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/2020/01/The_Mouvement.1-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/2020/01/The_Mouvement.1-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/2020/01/The_Mouvement.1.png 1280w" sizes="(max-width: 324px) 100vw, 324px"></div>
+					<div class="wc-block-grid__product-title">Katiu</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">10,00<span class="woocommerce-Price-currencySymbol">€</span></span> – <span class="woocommerce-Price-amount amount">15,00<span class="woocommerce-Price-currencySymbol">€</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="http://localhost/PixRetail/product/katiu/" aria-label="Sélectionner les options pour “Katiu”" data-quantity="1" data-product_id="268" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button">Choix des options</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/PixRetail/product/perchek-copie/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/2020/01/Random-324x324.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://localhost/PixRetail/wp-content/uploads/2020/01/Random-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/2020/01/Random-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/2020/01/Random-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/2020/01/Random-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/2020/01/Random-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/2020/01/Random-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/2020/01/Random-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/2020/01/Random.png 1280w" sizes="(max-width: 324px) 100vw, 324px"></div>
+					<div class="wc-block-grid__product-title">Random</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">10,00<span class="woocommerce-Price-currencySymbol">€</span></span> – <span class="woocommerce-Price-amount amount">15,00<span class="woocommerce-Price-currencySymbol">€</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="http://localhost/PixRetail/product/perchek-copie/" aria-label="Sélectionner les options pour “Random”" data-quantity="1" data-product_id="248" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button">Choix des options</a></div>
+			</li><li class="wc-block-grid__product">
+				<a href="http://localhost/PixRetail/product/perchek/" class="wc-block-grid__product-link">
+					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/2020/01/Perchek-324x324.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="http://localhost/PixRetail/wp-content/uploads/2020/01/Perchek-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/2020/01/Perchek-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/2020/01/Perchek-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/2020/01/Perchek-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/2020/01/Perchek-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/2020/01/Perchek-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/2020/01/Perchek-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/2020/01/Perchek.png 1280w" sizes="(max-width: 324px) 100vw, 324px"></div>
+					<div class="wc-block-grid__product-title">Perchek</div>
+				</a>
+				
+				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">10,00<span class="woocommerce-Price-currencySymbol">€</span></span> – <span class="woocommerce-Price-amount amount">15,00<span class="woocommerce-Price-currencySymbol">€</span></span></div>
+				
+				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="http://localhost/PixRetail/product/perchek/" aria-label="Sélectionner les options pour “Perchek”" data-quantity="1" data-product_id="241" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button">Choix des options</a></div>
 			</li></ul></div>
 
-<div class="wc-block-grid wp-block-product-category wc-block-product-category has-3-columns"><ul class="wc-block-grid__products"><li class="wc-block-grid__product">
-				<a href="http://localhost/PixRetail/product/elle-le-bois-3/" class="wc-block-grid__product-link">
-					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" srcset="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 324px) 100vw, 324px"></div>
-					<div class="wc-block-grid__product-title">Elle &amp; le bois 3</div>
-				</a>
-				
-				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">15,00<span class="woocommerce-Price-currencySymbol">€</span></span></div>
-				
-				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=205" aria-label="Ajouter “Elle &amp; le bois 3” à votre panier" data-quantity="1" data-product_id="205" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Ajouter au panier</a></div>
-			</li><li class="wc-block-grid__product">
-				<a href="http://localhost/PixRetail/product/elle-le-bois-2/" class="wc-block-grid__product-link">
-					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" srcset="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 324px) 100vw, 324px"></div>
-					<div class="wc-block-grid__product-title">Elle &amp; le bois 2</div>
-				</a>
-				
-				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">15,00<span class="woocommerce-Price-currencySymbol">€</span></span></div>
-				
-				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=204" aria-label="Ajouter “Elle &amp; le bois 2” à votre panier" data-quantity="1" data-product_id="204" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Ajouter au panier</a></div>
-			</li><li class="wc-block-grid__product">
-				<a href="http://localhost/PixRetail/product/elle-le-bois/" class="wc-block-grid__product-link">
-					<div class="wc-block-grid__product-image"><img width="324" height="324" src="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png" class="woocommerce-placeholder wp-post-image" alt="Etiquette" srcset="http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-324x324.png 324w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-100x100.png 100w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-416x416.png 416w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-300x300.png 300w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-1024x1024.png 1024w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-150x150.png 150w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder-768x768.png 768w, http://localhost/PixRetail/wp-content/uploads/woocommerce-placeholder.png 1200w" sizes="(max-width: 324px) 100vw, 324px"></div>
-					<div class="wc-block-grid__product-title">Elle &amp; le bois</div>
-				</a>
-				
-				<div class="wc-block-grid__product-price price"><span class="woocommerce-Price-amount amount">15,00<span class="woocommerce-Price-currencySymbol">€</span></span></div>
-				
-				<div class="wp-block-button wc-block-grid__product-add-to-cart"><a href="?add-to-cart=195" aria-label="Ajouter “Elle &amp; le bois” à votre panier" data-quantity="1" data-product_id="195" data-product_sku="" rel="nofollow" class="wp-block-button__link add_to_cart_button ajax_add_to_cart">Ajouter au panier</a></div>
-			</li></ul></div></div></div>
+<div class="wc-block-grid wp-block-product-category wc-block-product-category has-3-columns"><ul class="wc-block-grid__products"></ul></div></div></div>
+    </div></div></div></div>
 </div>
                     
 
@@ -177,7 +172,7 @@
                     <img class="collectionBackground" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
             <?php endif; ?> 
         </div>
-    </div>
+</div>
 
 
 
