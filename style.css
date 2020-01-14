@@ -477,6 +477,7 @@ img {
   width: 25% !important;
   height: 100vh;
   position: fixed;
+  background-color: white;
 }
 
 @media (max-width: 1024px) {
@@ -505,6 +506,15 @@ img {
 
 .wp-block-group.has-background h3 {
   padding-bottom: 0px !important;
+}
+
+.site-info {
+  display: none;
+}
+
+.footer-widgets {
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 /*# sourceMappingURL=style.css.map */
